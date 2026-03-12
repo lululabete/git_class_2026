@@ -1,3 +1,5 @@
+## Source:
+
 # Introduction
 Entice your family to dinner with chicken shawarma 
 from I Eat Therefore I Cook.  
@@ -13,6 +15,8 @@ This meal will easily become a family favorite.
 ## Recipe name
 **Chicken Shawarma
 Recipe Submitted to Foodista**
+
+![image de shawarma](C:\Users\lpardessus\git_class\image_shawarma)
 
 ## Recipe core
 For the Chicken:
