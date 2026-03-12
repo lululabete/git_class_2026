@@ -1,5 +1,5 @@
 ## Source:
-
+[Foodista]
 # Introduction
 Entice your family to dinner with chicken shawarma 
 from I Eat Therefore I Cook.  
@@ -16,7 +16,8 @@ This meal will easily become a family favorite.
 **Chicken Shawarma
 Recipe Submitted to Foodista**
 
-![image de shawarma](C:\Users\lpardessus\git_class\image_shawarma)
+![image de shawarma](C:\Users\lpardessus\git_class\image_shawarma.jpg)
+Source: https://www.themediterraneandish.com/chicken-shawarma-recipe/
 
 ## Recipe core
 For the Chicken:
