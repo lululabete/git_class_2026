@@ -8,5 +8,3 @@ Three zests of `git commit`.
 bla bla
 bla
 bla.
-
-Modifying a lot of things here
