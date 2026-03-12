@@ -1,3 +1,4 @@
+# Introduction
 Entice your family to dinner with chicken shawarma 
 from I Eat Therefore I Cook.  
 Boneless skinless chicken breasts are rubbed 
@@ -9,9 +10,11 @@ Garlic scented rice and roasted spiced carrots
 are served alongside.  
 This meal will easily become a family favorite.
 
-Chicken Shawarma
-Recipe Submitted to Foodista
+## Recipe name
+**Chicken Shawarma
+Recipe Submitted to Foodista**
 
+## Recipe core
 For the Chicken:
 3 boneless skinless chicken breasts
 2 Tbsp Turmeric
@@ -52,3 +55,7 @@ For the Tzatziki:
 2 Tbsp Fresh Dill
 1 Tbsp Garlic Powder
 1 Tbsp Pepper
+
+
+## Bon appétiiiit
+Miam
