@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 open-in-browser*
+=======
+# Ignore files for browser viewing
+open-in-browser.*
+>>>>>>> lucas_recipe
